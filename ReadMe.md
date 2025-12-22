@@ -8,7 +8,10 @@
 
 ## 🧠 LeetCode Dashboard
 ![LeetCode Stats](https://leetcard.jacoblin.cool/EslamKhaledd?theme=dark&ext=heatmap)
-
+## 🏆 Codeforces Dashboard
+<a href="https://codeforces.com/profile/EslamKhaledd">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=EslamKhaledd&theme=dark" alt="Codeforces Stats" />
+</a>
 
 ---
 
