@@ -10,12 +10,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/EslamKhaledd?theme=dark&ext=heatmap)
 ## 🏆 Codeforces Dashboard
 <a href="https://codeforces.com/profile/EslamKhaledd">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=EslamKhaledd&theme=dark" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=EslamKhaledd&theme=dark" />
 </a>
-
-
-![Codeforces Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EslamKhaledd&theme=react-dark)
-
+<br/>
+<img src="https://codeforces-readme-stats.vercel.app/api/heatmap?username=EslamKhaledd&theme=dark" />
 ---
 
 ## 💻 Tech Stack
