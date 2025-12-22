@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 LeetCode Dashboard
-![LeetCode Stats](https://leetcard.jacoblin.cool/eslam_khaled_mohamed?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/EslamKhaledd?theme=dark&ext=heatmap)
 
 ---
 
