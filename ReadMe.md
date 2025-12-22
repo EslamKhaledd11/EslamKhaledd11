@@ -1,11 +1,15 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-khaled-265b40241/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/EslamKhaledd/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/eslamkhaledd)
+
 
 ---
 
 ## 🧠 LeetCode Dashboard
 ![LeetCode Stats](https://leetcard.jacoblin.cool/EslamKhaledd?theme=dark&ext=heatmap)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=eslamkhaledd&theme=dark)
+
 
 ---
 
