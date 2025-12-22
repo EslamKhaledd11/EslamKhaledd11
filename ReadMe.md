@@ -8,12 +8,8 @@
 
 ## 🧠 LeetCode Dashboard
 ![LeetCode Stats](https://leetcard.jacoblin.cool/EslamKhaledd?theme=dark&ext=heatmap)
-## 🏆 Codeforces Dashboard
-## 📊 Codeforces Activity
-## 📊 Codeforces Activity Graph
-<a href="https://codeforces.com/profile/EslamKhaledd">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EslamKhaledd&theme=react-dark&area=true&hide_border=true" width="100%" />
-</a>
+![Codeforces Streak](https://cf-streak-stats.vercel.app/api?username=eslamkhaledd)
+
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
