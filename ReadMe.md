@@ -8,7 +8,6 @@
 
 ## 🧠 LeetCode Dashboard
 ![LeetCode Stats](https://leetcard.jacoblin.cool/EslamKhaledd?theme=dark&ext=heatmap)
-![Codeforces Streak](https://cf-streak-stats.vercel.app/api?username=eslamkhaledd&theme=dark)
 
 
 ---
