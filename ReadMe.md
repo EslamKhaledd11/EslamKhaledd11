@@ -13,6 +13,9 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=EslamKhaledd&theme=dark" alt="Codeforces Stats" />
 </a>
 
+
+![Codeforces Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EslamKhaledd&theme=react-dark)
+
 ---
 
 ## 💻 Tech Stack
