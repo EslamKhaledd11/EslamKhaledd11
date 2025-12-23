@@ -8,7 +8,6 @@
 
 ## 🧠 LeetCode Dashboard
 ![LeetCode Stats](https://leetcard.jacoblin.cool/EslamKhaledd?theme=dark&ext=heatmap)
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=eslamkhaledd&theme=dark)
 
 
 ## 💻 Tech Stack
