@@ -25,9 +25,19 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=EslamKhaledd11&theme=dark&show_icons=true&hide_border=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=EslamKhaledd11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EslamKhaledd11&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=EslamKhaledd11&show_icons=true&theme=dark&hide_border=false" alt="Eslam's GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EslamKhaledd11&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamKhaledd11&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+
+</div>
 
 ---
 
